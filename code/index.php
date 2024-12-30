@@ -1,6 +1,6 @@
 <?php
 
-echo "<p>Bonjour !</p>";
+echo "<p>Bonjour à tous !</p>";
 
 $servername = "mysql";
 $username = "user";
